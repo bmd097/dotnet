@@ -1,0 +1,7 @@
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\dotnet\bin\Debug\dotnet.exe.config
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\dotnet\bin\Debug\dotnet.exe
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\dotnet\bin\Debug\dotnet.pdb
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\dotnet\obj\Debug\dotnet.csproj.AssemblyReference.cache
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\dotnet\obj\Debug\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\dotnet\obj\Debug\dotnet.exe
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\dotnet\obj\Debug\dotnet.pdb
