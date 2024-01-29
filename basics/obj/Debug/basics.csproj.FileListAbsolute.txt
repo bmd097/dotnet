@@ -1,0 +1,7 @@
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\basics\bin\Debug\basics.exe.config
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\basics\bin\Debug\basics.exe
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\basics\bin\Debug\basics.pdb
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\basics\obj\Debug\basics.csproj.AssemblyReference.cache
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\basics\obj\Debug\basics.csproj.CoreCompileInputs.cache
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\basics\obj\Debug\basics.exe
+C:\Users\biswamohan_dwari\Desktop\projects\dotnet\basics\obj\Debug\basics.pdb
